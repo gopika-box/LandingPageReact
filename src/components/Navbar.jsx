@@ -1,6 +1,6 @@
 export default function Navbar() {
   return (
-    <div className="relative bg-[url(\imgi_2_img-hero.png)] brightness-95 min-h-screen bg-cover">
+    <div className="relative bg-[url(/imgi_2_img-hero.png)] brightness-95 min-h-screen bg-cover">
     <nav className="absolute top-0 left-0 right-0 flex justify-between px-30 text-white h-15 p-2">
         <h2 className="text-3xl font-extrabold mr-3">Panto</h2>
         <ul className="hidden sm:flex text-lg font-sans gap-4 mt-2 ">
