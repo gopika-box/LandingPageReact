@@ -9,7 +9,7 @@ export default function Navbar() {
           <li className="transtition delay-100 duration-300 ease-in hover:scale-102 hover:text-amber-300">About Us</li>
           <li className="transtition delay-100 duration-300 ease-in hover:scale-102 hover:text-amber-300">Contact</li>
         </ul>
-        <div><img src="/imgi_1_cart.svg" alt="Cart Img" /></div>
+        <div><img src="imgi_1_cart.svg" alt="Cart Img" /></div>
       
     </nav>
 
