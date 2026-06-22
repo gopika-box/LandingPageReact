@@ -7,7 +7,7 @@ import Client from './components/Client'
 import Footer from './components/Footer'
 export default function App(){
   return(
-    <div>
+    <div className='w-full overflow-hidden'>
     <Navbar/>
 
     <Choose/>

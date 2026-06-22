@@ -1,16 +1,16 @@
 export default function Product(){
     return(
-        <div className="flex flex-col items-center justify-center bg-gray-200 p-10">
+        <div className="flex flex-col items-center justify-center bg-gray-200 p-1 md:p-10">
             <h2 className="text-3xl font-bold text-center">Best Selling Product</h2>
             {/* https://panto-slicing.vercel.app/ */}
-            <ul className="flex gap-7 text-lg bg-gray-300 mt-10 mx-auto max-w-md rounded-3xl justify-center items-center text-center h-15">
+            <ul className="flex gap-2 md:gap-7 text-lg bg-gray-300 mt-10 mx-auto max-w-md rounded-3xl justify-center items-center text-center h-15">
                 <li className="bg-gray-200 p-2.5 px-6 rounded-3xl">Chair</li>
                 <li className="hover:bg-gray-200 p-2.5 px-6 rounded-3xl">Beds</li>
                 <li className="hover:bg-gray-200 p-2.5 px-6 rounded-3xl">Sofa</li>
                 <li className="hover:bg-gray-200 p-2.5 px-6 rounded-3xl">Lamp</li>
             </ul>
 
-            <div className="grid grid-cols-2 sm:flex mt-10 gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:flex mt-10 gap-6">
                 {/* chair images */}
                 <div className="pt-50 pl-2 min-w-52 max-w-64 relative bg-gray-100  rounded-xl">
                     <img src="products/imgi_3_product-1.svg" alt=""
