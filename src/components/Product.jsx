@@ -13,7 +13,7 @@ export default function Product(){
             <div className="grid grid-cols-2 sm:flex mt-10 gap-6">
                 {/* chair images */}
                 <div className="pt-50 pl-2 min-w-52 max-w-64 relative bg-gray-100  rounded-xl">
-                    <img src="/products/imgi_3_product-1.svg" alt=""
+                    <img src="products/imgi_3_product-1.svg" alt=""
                     className="absolute -top-6" />
                     <p className="text-gray-600 mt-10">Chair</p>
                     <p className="font-semibold font-sans text-xl">Sakarias Armchair</p>
