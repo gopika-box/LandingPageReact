@@ -19,7 +19,7 @@ export default function Product(){
                     <p className="font-semibold font-sans text-xl">Sakarias Armchair</p>
                     <p className="mb-10">⭐⭐⭐⭐⭐</p>
                     <p className="absolute -bottom-1 left-2 font-bold text-xl">$456</p>
-                    <button className="absolute leading-none text-white w-8 h-8 right-0 bottom-0 bg-blue-950 rounded-full font-bold text-xl flex items-center justify-center"><img src="public\imgi_4_plus.svg"/>
+                    <button className="absolute leading-none text-white w-8 h-8 right-0 bottom-0 bg-blue-950 rounded-full font-bold text-xl flex items-center justify-center"><img src="imgi_4_plus.svg"/>
                     </button>
                 </div>
 
@@ -30,7 +30,7 @@ export default function Product(){
                     <p className="font-semibold font-sans text-xl">Sakarias Armchair</p>
                     <p className="mb-10">⭐⭐⭐⭐⭐</p>
                     <p className="absolute -bottom-1 left-2 font-bold text-xl">$456</p>
-                    <button className="absolute leading-none text-white w-8 h-8 right-0 bottom-0 bg-blue-950 rounded-full font-bold text-xl flex items-center justify-center"><img src="public\imgi_4_plus.svg"/>
+                    <button className="absolute leading-none text-white w-8 h-8 right-0 bottom-0 bg-blue-950 rounded-full font-bold text-xl flex items-center justify-center"><img src="imgi_4_plus.svg"/>
                     </button>
                     </div>
 
@@ -42,7 +42,7 @@ export default function Product(){
                     <p className="mb-10">⭐⭐⭐⭐⭐</p>
                     <p className="absolute -bottom-1 left-2 font-bold text-xl">$456</p>
                     <button className="absolute text-white w-8 h-8 right-0 bottom-0 bg-blue-950 rounded-full font-bold text-xl flex items-center justify-center">
-                        <img src="/imgi_4_plus.svg"/>
+                        <img src="imgi_4_plus.svg"/>
                     </button>
                 </div>
                 <div className="pt-50 pl-2 min-w-52 max-w-64 relative bg-gray-100 rounded-xl">
@@ -52,7 +52,7 @@ export default function Product(){
                     <p className="font-semibold font-sans text-xl">Sakarias Armchair</p>
                     <p className="mb-10">⭐⭐⭐⭐⭐</p>
                     <p className="absolute -bottom-1 left-2 font-bold text-xl">$456</p>
-                  <button className="absolute leading-none text-white w-8 h-8 right-0 bottom-0 bg-blue-950 rounded-full font-bold text-xl flex items-center justify-center"><img src="public\imgi_4_plus.svg"/>
+                  <button className="absolute leading-none text-white w-8 h-8 right-0 bottom-0 bg-blue-950 rounded-full font-bold text-xl flex items-center justify-center"><img src="/imgi_4_plus.svg"/>
                     </button>
                   </div>
                 
