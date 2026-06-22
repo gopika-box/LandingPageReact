@@ -1,7 +1,7 @@
 export default function Experience(){
     return(
         <div className="grid md:flex py-10 bg-white">
-            <img src="/imgi_2_img-hero.png" alt="" 
+            <img src="imgi_2_img-hero.png" alt="" 
             className="w-[880px] border"/>
             <div className=" p-30 flex flex-col gap-5">
                 <h3 className="uppercase text-xl text-orange-500 tracking-widest text-left">experiences</h3>

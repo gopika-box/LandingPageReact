@@ -24,7 +24,7 @@ export default function Product(){
                 </div>
 
                 <div className="pt-50 pl-2 min-w-52 max-w-64 relative bg-gray-100 rounded-xl">
-                    <img src="/products/imgi_7_product-4.svg" alt=""
+                    <img src="products/imgi_7_product-4.svg" alt=""
                     className="absolute -top-6" />
                     <p className="text-gray-600 mt-10">Chair</p>
                     <p className="font-semibold font-sans text-xl">Sakarias Armchair</p>
@@ -35,7 +35,7 @@ export default function Product(){
                     </div>
 
                 <div className="pt-50 pl-2 min-w-52 max-w-64 relative bg-white rounded-xl">
-                    <img src="/products/imgi_5_product-2.svg" alt=""
+                    <img src="products/imgi_5_product-2.svg" alt=""
                     className="absolute -top-6" />
                     <p className="text-gray-600 mt-10">Chair</p>
                     <p className="font-semibold font-sans text-xl">Sakarias Armchair</p>
@@ -46,7 +46,7 @@ export default function Product(){
                     </button>
                 </div>
                 <div className="pt-50 pl-2 min-w-52 max-w-64 relative bg-gray-100 rounded-xl">
-                    <img src="/products/imgi_6_product-3.svg" alt=""
+                    <img src="products/imgi_6_product-3.svg" alt=""
                     className="absolute -top-6" />
                     <p className="text-gray-600 mt-10">Chair</p>
                     <p className="font-semibold font-sans text-xl">Sakarias Armchair</p>
