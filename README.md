@@ -24,7 +24,7 @@ Check out the live deployment of the project here: [Panto Landing Page](https://
 ## 🛠️ Tech Stack
 
 *   **Framework:** React (Functional Components, Hooks)
-*   **Styling:** CSS3 / Tailwind CSS (depending on implementation preference)
-*   **Icons:** React Icons / FontAwesome
+*   **Styling:** CSS3 / Tailwind CSS
+*   **Icons:** FontAwesome
 
 ---
