@@ -1,16 +1,26 @@
-# React + Vite
+# Panto - Modern & Minimalistic Furniture Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, responsive, and modern furniture landing page built using **React**. Panto showcases minimalist interior design ideas, luxury facilities, affordable top-tier workspace options, best-selling products, and authentic customer testimonials. 
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+*   **Modern UI/UX:** Clean, minimalistic aesthetic with a dark wood hero background and vibrant accent colors.
+*   **Fully Responsive:** Optimized for desktop, tablet, and mobile viewing.
+*   **Interactive Components:** Product categories (Chairs, Beds, Sofas, Lamps) and dynamic view toggles.
+*   **Structured Sections:**
+    *   **Hero Section:** Catchy tagline with an interactive furniture search bar.
+    *   **Why Choose Us:** Highlighted value propositions (Luxury Facilities, Affordable Prices, Many Choices).
+    *   **Best Selling Products:** Grid display featuring popular items like the *Sakarias Armchair*.
+    *   **Experiences & Materials:** Engaging storytelling sections explaining the premium quality of the brand.
+    *   **Testimonials:** Verified client reviews carousel/grid.
+    *   **Footer:** Organized navigation links and social media integration.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+*   **Framework:** React (Functional Components, Hooks)
+*   **Styling:** CSS3 / Tailwind CSS (depending on implementation preference)
+*   **Icons:** React Icons / FontAwesome
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
